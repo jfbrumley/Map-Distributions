@@ -34,3 +34,13 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+.Rproj.user
+
+#Other files to ignore
+*.Rproj
+*.Rmd
+inputs/
+outputs/
+images/
+*.jpg
+*.R
